@@ -1,0 +1,7 @@
+{
+  "name": "Bocchi Bot",
+  "description": "MultiPurpose WhatsApp Bot",
+  "repository": "https://github.com/SlavyanDesu/BocchiBot",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Whatsapp Bot"]
+}
