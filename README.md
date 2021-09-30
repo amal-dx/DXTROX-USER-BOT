@@ -61,7 +61,7 @@
 > sangat disarankan untuk menggunakan heroku hanya untuk grup pribadi (hanya grup ini)
 >
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BocchiBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SlavyanDesu/BocchiBot)
 
 
 # Installation
