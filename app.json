@@ -4,7 +4,7 @@
     "description": "DXTROX_V1 is the Modified Version of WhatsAsena,  .",
     "logo": "http://telegra.ph/file/68809ff84d7cd4447a76e.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "",
+    "repository": "https://github.com/amal-dx/DXTROX-USER-BOT",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
